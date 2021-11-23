@@ -41,7 +41,7 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 
 ### Production Management  
 
-* [Bills of Material](https://api.sap.com/api/OP_API_BILL_OF_MATERIAL_SRV_0002/overview)  
+* [Bill of Material](https://api.sap.com/api/OP_API_BILL_OF_MATERIAL_SRV_0002/overview)  
 * [Work Center](https://api.sap.com/api/OP_WORKCENTER_0001/overview)  
 * [Production Routing](https://api.sap.com/api/OP_API_PRODUCTION_ROUTING_0001/overview)  
 * [Material Planning Data - Read](https://api.sap.com/api/OP_API_MRP_MATERIALS_SRV_01_0001/overview)  
