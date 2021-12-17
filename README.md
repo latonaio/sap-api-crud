@@ -28,6 +28,7 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 * [Sales Inquiry](https://api.sap.com/api/OP_API_SALES_INQUIRY_SRV_0001/overview)
 * [Sales Quotation](https://api.sap.com/api/OP_API_SALES_QUOTATION_SRV_0001/overview)
 * [Sales Order](https://api.sap.com/api/OP_API_SALES_ORDER_SRV_0001/overview)  
+* [Sales Contract](https://api.sap.com/api/OP_API_SALES_CONTRACT_SRV_0001/overview)
 * [Outbound Delivery](https://api.sap.com/api/OP_API_OUTBOUND_DELIVERY_SRV_0002/overview)  
 * [Customer Return](https://api.sap.com/api/OP_API_CUSTOMER_RETURN_SRV_0001/overview)
 * [Billing Document - Read, Cancel](https://api.sap.com/api/OP_API_BILLING_DOCUMENT_SRV_0001/overview)  
