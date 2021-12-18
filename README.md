@@ -41,6 +41,7 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 * [Purchasing Info Record](https://api.sap.com/api/OP_API_INFORECORD_PROCESS_SRV_0001/overview)     
 * [Purchase Requisition](https://api.sap.com/api/OP_API_PURCHASEREQ_PROCESS_SRV_0001/overview)  
 * [Purchase Order](https://api.sap.com/api/OP_API_PURCHASEORDER_PROCESS_SRV_0001/overview)  
+* [Purchase Contract](https://api.sap.com/api/OP_API_PURCHASECONTRACT_PROCESS_SRV/overview)
 * [Purchase Scheduling Agreement](https://api.sap.com/api/OP_API_SCHED_AGRMT_PROCESS_SRV_0001/overview)
 * [Supplier Invoice](https://api.sap.com/api/OP_API_SUPPLIERINVOICE_PROCESS_SRV/overview)  
 
