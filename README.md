@@ -58,3 +58,7 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 ### Plant Management  
 
 * [Equipment Master](https://api.sap.com/api/OP_API_EQUIPMENT/overview)  
+
+### Customer Service 
+
+* [Service Order](https://api.sap.com/api/OP_API_SERVICE_ORDER_SRV_0001/overview)
