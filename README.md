@@ -12,6 +12,7 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 ### Central Functions  
 
 * [Business Partner](https://api.sap.com/api/OP_API_BUSINESS_PARTNER_SRV/overview)  
+* [Characteristic](https://api.sap.com/api/OP_API_CLFN_CHARACTERISTIC_SRV/overview)
 
 ### Logistics  
 
