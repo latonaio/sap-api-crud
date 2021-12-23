@@ -17,6 +17,7 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 ### Logistics  
 
 * [Product Master](https://api.sap.com/api/OP_API_PRODUCT_SRV_0001/overview)  
+* [Product Master Classification](https://api.sap.com/api/OP_API_CLFN_PRODUCT_SRV/overview)
 * [Batch Master Record](https://api.sap.com/api/OP_API_BATCH_SRV_0001/overview)  
 
 ### Inventory Management  
