@@ -74,4 +74,4 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 ### Customer Service 
 
 * [Service Order](https://api.sap.com/api/OP_API_SERVICE_ORDER_SRV_0001/overview)
-* [Service Order Confirmation](https://api.sap.com/api/OP_API_SERVICE_CONFIRMATION_SRV_0001/overview)
+* [Service Confirmation](https://api.sap.com/api/OP_API_SERVICE_CONFIRMATION_SRV_0001/overview)
