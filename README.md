@@ -66,6 +66,8 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 ### Plant Management  
 
 * [Equipment Master](https://api.sap.com/api/OP_API_EQUIPMENT/overview) 
+* [Maintenance Plan](https://api.sap.com/api/OP_API_MAINTENANCEPLAN_0001/overview)
+* [Maintenance Item](https://api.sap.com/api/OP_API_MAINTENANCEITEM_0001/overview)
 * [Maintenance Task List](https://api.sap.com/api/OP_API_MAINTENANCETASKLIST_0001/overview)
 * [Maintenance Order - Read](https://api.sap.com/api/OP_API_MAINTENANCEORDER_0001/overview) 
 * [Maintenance Order Confirmation](https://api.sap.com/api/OP_API_MAINTORDERCONFIRMATION_0001/overview) 
