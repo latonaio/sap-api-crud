@@ -18,7 +18,7 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 ### Logistics  
 
 * [Product Master](https://api.sap.com/api/OP_API_PRODUCT_SRV_0001/overview)  
-* [Product Master Class](https://api.sap.com/api/OP_API_CLFN_PRODUCT_SRV/overview)
+* [Product Master Class - Read](https://api.sap.com/api/OP_API_CLFN_PRODUCT_SRV/overview)
 * [Batch Master Record](https://api.sap.com/api/OP_API_BATCH_SRV_0001/overview)  
 
 ### Inventory Management  
@@ -32,14 +32,14 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 
 * [Business Partner(Customer)](https://api.sap.com/api/OP_API_BUSINESS_PARTNER_SRV/overview) 
 * [Sales Pricing](https://api.sap.com/api/OP_API_SLSPRCGCONDITIONRECORD_SRV_0001/overview)
-* [Sales Inquiry](https://api.sap.com/api/OP_API_SALES_INQUIRY_SRV_0001/overview)
+* [Sales Inquiry - Read](https://api.sap.com/api/OP_API_SALES_INQUIRY_SRV_0001/overview)
 * [Sales Quotation](https://api.sap.com/api/OP_API_SALES_QUOTATION_SRV_0001/overview)
 * [Sales Order](https://api.sap.com/api/OP_API_SALES_ORDER_SRV_0001/overview)  
 * [Sales Contract](https://api.sap.com/api/OP_API_SALES_CONTRACT_SRV_0001/overview)
 * [Sales Scheduling Agreement](https://api.sap.com/api/OP_API_SALES_SCHEDULING_AGREEMENT_0001/overview)
 * [Outbound Delivery](https://api.sap.com/api/OP_API_OUTBOUND_DELIVERY_SRV_0002/overview)  
 * [Customer Return](https://api.sap.com/api/OP_API_CUSTOMER_RETURN_SRV_0001/overview)
-* [Billing Document - Read, Cancel](https://api.sap.com/api/OP_API_BILLING_DOCUMENT_SRV_0001/overview)  
+* [Billing Document - Read, Cancel, GetPDF](https://api.sap.com/api/OP_API_BILLING_DOCUMENT_SRV_0001/overview)  
 
 ### Procurement Management  
 
@@ -50,7 +50,7 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 * [Purchase Order](https://api.sap.com/api/OP_API_PURCHASEORDER_PROCESS_SRV_0001/overview)  
 * [Purchase Contract](https://api.sap.com/api/OP_API_PURCHASECONTRACT_PROCESS_SRV/overview)
 * [Purchase Scheduling Agreement](https://api.sap.com/api/OP_API_SCHED_AGRMT_PROCESS_SRV_0001/overview)
-* [Supplier Invoice](https://api.sap.com/api/OP_API_SUPPLIERINVOICE_PROCESS_SRV/overview)  
+* [Supplier Invoice - Create, Read, Release, Reverse](https://api.sap.com/api/OP_API_SUPPLIERINVOICE_PROCESS_SRV/overview)  
 
 ### Production Management  
 
@@ -67,7 +67,7 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 
 * [Equipment Master](https://api.sap.com/api/OP_API_EQUIPMENT/overview) 
 * [Maintenance Task List](https://api.sap.com/api/OP_API_MAINTENANCETASKLIST_0001/overview)
-* [Maintenance Order](https://api.sap.com/api/OP_API_MAINTENANCEORDER_0001/overview) 
+* [Maintenance Order - Read](https://api.sap.com/api/OP_API_MAINTENANCEORDER_0001/overview) 
 * [Maintenance Order Confirmation](https://api.sap.com/api/OP_API_MAINTORDERCONFIRMATION_0001/overview) 
 * [Maintenance Notification](https://api.sap.com/api/OP_API_MAINTNOTIFICATION/overview)
 
