@@ -14,9 +14,12 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 * [Business Partner](https://api.sap.com/api/OP_API_BUSINESS_PARTNER_SRV/overview)  
 * [Classification](https://api.sap.com/api/OP_API_CLFN_CLASS_SRV/overview)
 * [Characteristic](https://api.sap.com/api/OP_API_CLFN_CHARACTERISTIC_SRV/overview)
+* [Bank Master](https://api.sap.com/api/OP_API_BANK_0002/overview)
+* [Business Partner](https://api.sap.com/api/OP_API_BUSINESS_PARTNER_SRV/overview)
 
 ### Logistics  
 
+* [Product Group](https://api.sap.com/api/OP_API_PRODUCTGROUP_SRV_0001/overview)
 * [Product Master](https://api.sap.com/api/OP_API_PRODUCT_SRV_0001/overview)  
 * [Product Master Class - Read](https://api.sap.com/api/OP_API_CLFN_PRODUCT_SRV/overview)
 * [Batch Master Record](https://api.sap.com/api/OP_API_BATCH_SRV_0001/overview)  
@@ -31,6 +34,7 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 ### Sales Management
 
 * [Business Partner(Customer)](https://api.sap.com/api/OP_API_BUSINESS_PARTNER_SRV/overview) 
+* [Customer Material](https://api.sap.com/api/OP_API_CUSTOMER_MATERIAL_SRV_0001/overview)
 * [Sales Pricing](https://api.sap.com/api/OP_API_SLSPRCGCONDITIONRECORD_SRV_0001/overview)
 * [Sales Inquiry - Read](https://api.sap.com/api/OP_API_SALES_INQUIRY_SRV_0001/overview)
 * [Sales Quotation](https://api.sap.com/api/OP_API_SALES_QUOTATION_SRV_0001/overview)
@@ -68,7 +72,6 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 * [Equipment Master](https://api.sap.com/api/OP_API_EQUIPMENT/overview) 
 * [Maintenance Plan](https://api.sap.com/api/OP_API_MAINTENANCEPLAN_0001/overview)
 * [Maintenance Item](https://api.sap.com/api/OP_API_MAINTENANCEITEM_0001/overview)
-* [Maintenance Task List](https://api.sap.com/api/OP_API_MAINTENANCETASKLIST_0001/overview)
 * [Maintenance Order - Read](https://api.sap.com/api/OP_API_MAINTENANCEORDER_0001/overview) 
 * [Maintenance Order Confirmation](https://api.sap.com/api/OP_API_MAINTORDERCONFIRMATION_0001/overview) 
 * [Maintenance Notification](https://api.sap.com/api/OP_API_MAINTNOTIFICATION/overview)
