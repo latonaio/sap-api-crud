@@ -11,7 +11,6 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 
 ### Central Functions  
 
-* [Business Partner](https://api.sap.com/api/OP_API_BUSINESS_PARTNER_SRV/overview)  
 * [Classification](https://api.sap.com/api/OP_API_CLFN_CLASS_SRV/overview)
 * [Characteristic](https://api.sap.com/api/OP_API_CLFN_CHARACTERISTIC_SRV/overview)
 * [Bank Master](https://api.sap.com/api/OP_API_BANK_0002/overview)
@@ -34,6 +33,7 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 ### Sales Management
 
 * [Business Partner(Customer)](https://api.sap.com/api/OP_API_BUSINESS_PARTNER_SRV/overview) 
+* [Credit Management Master](https://api.sap.com/api/OP_API_CRDTMBUSINESSPARTNER_0001/overview)
 * [Customer Material](https://api.sap.com/api/OP_API_CUSTOMER_MATERIAL_SRV_0001/overview)
 * [Sales Pricing](https://api.sap.com/api/OP_API_SLSPRCGCONDITIONRECORD_SRV_0001/overview)
 * [Sales Inquiry - Read](https://api.sap.com/api/OP_API_SALES_INQUIRY_SRV_0001/overview)
@@ -59,6 +59,7 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 ### Production Management  
 
 * [Bill of Material](https://api.sap.com/api/OP_API_BILL_OF_MATERIAL_SRV_0002/overview)  
+* [Bill of Material Where Used List](https://api.sap.com/api/OP_API_BOM_WHERE_USED_SRV/overview)
 * [Work Center](https://api.sap.com/api/OP_WORKCENTER_0001/overview)  
 * [Production Routing](https://api.sap.com/api/OP_API_PRODUCTION_ROUTING_0001/overview)  
 * [Planned Independent Requirement](https://api.sap.com/api/OP_API_PLND_INDEP_RQMT_SRV_0001/overview)   
@@ -70,6 +71,7 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 ### Plant Management  
 
 * [Equipment Master](https://api.sap.com/api/OP_API_EQUIPMENT/overview) 
+* [Equipment Hierarchy](https://api.sap.com/api/OP_API_EQUIPMENTSTRUCLIST/overview)
 * [Maintenance Plan](https://api.sap.com/api/OP_API_MAINTENANCEPLAN_0001/overview)
 * [Maintenance Item](https://api.sap.com/api/OP_API_MAINTENANCEITEM_0001/overview)
 * [Maintenance Order - Read](https://api.sap.com/api/OP_API_MAINTENANCEORDER_0001/overview) 
