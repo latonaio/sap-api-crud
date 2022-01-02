@@ -29,6 +29,7 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 * [Reservation Document](https://api.sap.com/api/OP_API_RESERVATION_DOCUMENT_SRV_0001/overview)  
 * [Inbound Delivery](https://api.sap.com/api/OP_API_INBOUND_DELIVERY_SRV_0002/overview)  
 * [Material Documents - Read, Create](https://api.sap.com/api/OP_API_MATERIAL_DOCUMENT_SRV/overview)  
+* [Physical Inventory](https://api.sap.com/api/OP_API_PHYSICAL_INVENTORY_DOC_SRV/overview)
 
 ### Sales Management
 
