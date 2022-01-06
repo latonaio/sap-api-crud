@@ -69,17 +69,19 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 * [Production Order](https://api.sap.com/api/OP_API_PRODUCTION_ORDER_2_SRV_0001/overview)  
 * [Production Order Confirmation](https://api.sap.com/api/OP_API_PROD_ORDER_CONFIRMATIO_2_SRV_0001/overview)
 
-### Plant Management  
+### Plant Maintenance  
 
+* [Functional Location](https://api.sap.com/api/OP_API_FUNCTIONALLOCATION/overview) 
 * [Equipment Master](https://api.sap.com/api/OP_API_EQUIPMENT/overview) 
 * [Equipment Hierarchy](https://api.sap.com/api/OP_API_EQUIPMENTSTRUCLIST/overview)
 * [Maintenance Plan](https://api.sap.com/api/OP_API_MAINTENANCEPLAN_0001/overview)
 * [Maintenance Item](https://api.sap.com/api/OP_API_MAINTENANCEITEM_0001/overview)
-* [Measuring Point](https://api.sap.com/api/OP_API_MEASURINGPOINT_0001/overview)
-* [Measurement Document](https://api.sap.com/api/OP_API_MEASUREMENTDOCUMENT_0001/overview)
+* [Maintenance Notification](https://api.sap.com/api/OP_API_MAINTNOTIFICATION/overview)
 * [Maintenance Order - Read](https://api.sap.com/api/OP_API_MAINTENANCEORDER_0001/overview) 
 * [Maintenance Order Confirmation](https://api.sap.com/api/OP_API_MAINTORDERCONFIRMATION_0001/overview) 
-* [Maintenance Notification](https://api.sap.com/api/OP_API_MAINTNOTIFICATION/overview)
+* [Measuring Point](https://api.sap.com/api/OP_API_MEASURINGPOINT_0001/overview)
+* [Measurement Document](https://api.sap.com/api/OP_API_MEASUREMENTDOCUMENT_0001/overview)
+
 
 ### Customer Service 
 
