@@ -74,6 +74,7 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 * [Functional Location](https://api.sap.com/api/OP_API_FUNCTIONALLOCATION/overview) 
 * [Equipment Master](https://api.sap.com/api/OP_API_EQUIPMENT/overview) 
 * [Equipment Hierarchy](https://api.sap.com/api/OP_API_EQUIPMENTSTRUCLIST/overview)
+* [Maintenance Bill of Material](https://api.sap.com/api/OP_API_MAINTENANCE_BOM_0001/overview)
 * [Maintenance Plan](https://api.sap.com/api/OP_API_MAINTENANCEPLAN_0001/overview)
 * [Maintenance Item](https://api.sap.com/api/OP_API_MAINTENANCEITEM_0001/overview)
 * [Maintenance Notification](https://api.sap.com/api/OP_API_MAINTNOTIFICATION/overview)
