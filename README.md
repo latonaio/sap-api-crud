@@ -79,6 +79,7 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 * [Maintenance Notification](https://api.sap.com/api/OP_API_MAINTNOTIFICATION/overview)
 * [Maintenance Order - Read](https://api.sap.com/api/OP_API_MAINTENANCEORDER_0001/overview) 
 * [Maintenance Order Confirmation](https://api.sap.com/api/OP_API_MAINTORDERCONFIRMATION_0001/overview) 
+* [Defect](https://api.sap.com/api/OP_API_DEFECT_SRV_0001/overview)
 * [Measuring Point](https://api.sap.com/api/OP_API_MEASURINGPOINT_0001/overview)
 * [Measurement Document](https://api.sap.com/api/OP_API_MEASUREMENTDOCUMENT_0001/overview)
 
