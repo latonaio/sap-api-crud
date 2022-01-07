@@ -45,6 +45,8 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 * [Outbound Delivery](https://api.sap.com/api/OP_API_OUTBOUND_DELIVERY_SRV_0002/overview)  
 * [Customer Return](https://api.sap.com/api/OP_API_CUSTOMER_RETURN_SRV_0001/overview)
 * [Billing Document - Read, Cancel, GetPDF](https://api.sap.com/api/OP_API_BILLING_DOCUMENT_SRV_0001/overview)  
+* [Credit Memo Request](https://api.sap.com/api/OP_API_CREDIT_MEMO_REQUEST_SRV_0001/overview)
+* [Debit Memo Request](https://api.sap.com/api/OP_API_DEBIT_MEMO_REQUEST_SRV_0001/overview)
 
 ### Procurement Management  
 
