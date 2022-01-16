@@ -71,6 +71,10 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 * [Production Order](https://api.sap.com/api/OP_API_PRODUCTION_ORDER_2_SRV_0001/overview)  
 * [Production Order Confirmation](https://api.sap.com/api/OP_API_PROD_ORDER_CONFIRMATIO_2_SRV_0001/overview)
 
+### Quality Management
+
+* [Inspection Plan](https://api.sap.com/api/OP_API_INSPECTIONPLAN_SRV_0001/overview)
+
 ### Plant Maintenance  
 
 * [Functional Location](https://api.sap.com/api/OP_API_FUNCTIONALLOCATION/overview) 
