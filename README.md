@@ -74,7 +74,8 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 ### Process Management
 
 * [Master Recipe](https://api.sap.com/api/OP_API_MASTER_RECIPE_0001/overview)  
-* [Process Order](https://api.sap.com/api/OP_API_PROCESS_ORDER_2_SRV_0001/overview)  
+* [Process Order](https://api.sap.com/api/OP_API_PROCESS_ORDER_2_SRV_0001/overview) 
+* [Process Order Confirmation](https://api.sap.com/api/OP_API_PROC_ORDER_CONFIRMATIO_2_SRV_0001/overview) 
 
 ### Quality Management
 
