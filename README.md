@@ -80,6 +80,7 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 ### Quality Management
 
 * [Inspection Plan](https://api.sap.com/api/OP_API_INSPECTIONPLAN_SRV_0001/overview)
+* [Quality Info Record](https://api.sap.com/api/OP_API_QUALITYINFORECORD_SRV_0001/overview)
 
 ### Plant Maintenance  
 
