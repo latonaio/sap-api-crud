@@ -31,6 +31,7 @@ sap-api-crud は、オンプレミス版である（＝クラウド版ではな�
 * [Material Documents - Read, Create](https://api.sap.com/api/OP_API_MATERIAL_DOCUMENT_SRV/overview)  
 * [Physical Inventory](https://api.sap.com/api/OP_API_PHYSICAL_INVENTORY_DOC_SRV/overview)
 * [Warehouse Resource](https://api.sap.com/api/WAREHOUSERESOURCE_0001/overview)
+* [Warehouse Available Stock](https://api.sap.com/api/WAREHOUSEAVAILABLESTOCK_0001/overview)
 
 ### Sales Management
 
